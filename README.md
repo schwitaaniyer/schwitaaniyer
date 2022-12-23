@@ -3,7 +3,7 @@
 <h3 align="center">Robotics | Data Science | Full-Stack</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->
 <!-- https://drive.google.com/file/d/1mUYrDGxdYPhp4aZwPJY98kTgqtZQVrny/view?usp=sharing -->
-<img align="right" alt="Robot" width="400" src="https://drive.google.com/file/d/1mUYrDGxdYPhp4aZwPJY98kTgqtZQVrny/view?usp=sharing">
+<img align="right" alt="Robot" width="400" src="https://wevolver-project-images.s3.amazonaws.com/0.lyfls0gdgcmkv-NAO.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schwitaaniyer&label=Profile%20views&color=0e75b6&style=flat" alt="schwitaaniyer" /> </p>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing)](https://schwitaaniyer.io)
+[![Banner](https://drive.google.com/file/d/1mAPIxDiJROxovYON1iwsRKMetRZ9TgHe/view?usp=share_link)](https://schwitaaniyer.io)
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
 <h3 align="center">Robotics | Data Science | Full-Stack</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->

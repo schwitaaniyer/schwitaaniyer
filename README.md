@@ -1,9 +1,10 @@
-[![Banner](https://i.postimg.cc/JhrLwLVp/Github-Banner.png)](https://schwitaaniyer.io)
+[![Banner](https://i.postimg.cc/QMnY3RpS/Banner.gif)](https://schwitaaniyer.io)
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
-<h3 align="center">Robotics | Data Science | Full-Stack</h3>
+<h3 align="center">Student @ Bennett University</h3>
+<h3 align="center">Data Science | Full-Stack</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->
 <!-- https://drive.google.com/file/d/1mUYrDGxdYPhp4aZwPJY98kTgqtZQVrny/view?usp=sharing -->
-<img align="right" alt="Robot" width="400" src="https://wevolver-project-images.s3.amazonaws.com/0.lyfls0gdgcmkv-NAO.png">
+<img align="right" alt="Robot" width="400" src="https://i.postimg.cc/W4RtH4y7/Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schwitaaniyer&label=Profile%20views&color=0e75b6&style=flat" alt="schwitaaniyer" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 🌱 I’m currently learning **ROS 2**
 
-- 💬 Ask me about **Data Science and Robotics**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **schwitaaniyer@gmail.com**
 

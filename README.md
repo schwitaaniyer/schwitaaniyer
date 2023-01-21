@@ -1,4 +1,4 @@
-[![Banner](https://i.postimg.cc/QMnY3RpS/Banner.gif)](https://schwitaaniyer.io)
+[![Banner.png](https://i.postimg.cc/sg8yn0Md/Banner.png)](https://postimg.cc/68dDqcVY)
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
 <h3 align="center">Student @ Bennett University</h3>
 <h3 align="center">Data Science | Full-Stack</h3>

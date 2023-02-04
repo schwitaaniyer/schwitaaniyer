@@ -1,7 +1,6 @@
 [![Banner.png](https://i.postimg.cc/zvXRnWL2/Banner.png)](https://postimg.cc/k6z4C2vW)
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
 <h3 align="center">Student @ Bennett University</h3>
-<h3 align="center">Data Science | Full-Stack</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->
 <!-- https://drive.google.com/file/d/1mUYrDGxdYPhp4aZwPJY98kTgqtZQVrny/view?usp=sharing -->
 <img align="right" alt="Robot" width="400" src="https://i.postimg.cc/W4RtH4y7/Coding.gif">

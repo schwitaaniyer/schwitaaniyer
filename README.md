@@ -1,4 +1,3 @@
-[![Banner.png](https://i.postimg.cc/zvXRnWL2/Banner.png)](https://postimg.cc/k6z4C2vW)
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
 <h3 align="center">Systems Engineer Executive @ Hughes</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->

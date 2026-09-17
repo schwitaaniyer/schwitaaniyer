@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Schwitaan Iyer</h1>
-<h3 align="center">Systems Engineer Executive @ Hughes</h3>
+<h3 align="center">Graduate Student @ Université Paris-Saclay</h3>
 <!-- https://drive.google.com/file/d/1ySXQFicnvGyw_fK411AyckSOhGFVRMtC/view?usp=sharing -->
 <!-- https://drive.google.com/file/d/1mUYrDGxdYPhp4aZwPJY98kTgqtZQVrny/view?usp=sharing -->
 <img align="right" alt="Robot" width="400" src="https://i.postimg.cc/W4RtH4y7/Coding.gif">
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/schwitaaniyer" target="blank"><img src="https://img.shields.io/twitter/follow/schwitaaniyer?logo=twitter&style=for-the-badge" alt="schwitaaniyer" /></a> </p>
 
-- 🔭 I’m currently working on **Autonomous Networking**
+- 🔭 I’m currently working on **Autonomous Systems**
 
 - 🌱 I’m currently learning about **LLMs, RAG and Agentic AI**
 
